@@ -35,8 +35,7 @@ setup(
         'djangocms_picture.south_migrations'
     ],
     install_requires=[
-        'django>=1.6',
-        'django-cms>=3.0',
+        'django-cms>=3.0.4',
     ],
     license='LICENSE.txt',
     platforms=['OS Independent'],
